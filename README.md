@@ -5,6 +5,6 @@
 3. Open up git and type: javac project2/*.java to compile
 4. Then type the following command after everything has compiled:
 
-`java project2/distance_vector_routing server -t project2/test.txt -i 10
+`java project2/distance_vector_routing server -t project2/test.txt -i 10`
 
 where test.txt is the name of your topology file and 10 is the update interval number`
